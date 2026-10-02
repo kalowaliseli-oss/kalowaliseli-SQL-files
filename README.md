@@ -1,2 +1,2 @@
 # kalowaliseli-SQL-files
-202406948
+ICT371 Activity 4
